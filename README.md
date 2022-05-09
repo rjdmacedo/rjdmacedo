@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Rafael Macedo and I'm a Software Enginner @VueStorefront
+### Hi there 👋 my name is Rafael and I'm a Software Enginner @VueStorefront
 
 ### 🔭 I work with
 
