@@ -40,9 +40,6 @@
 ![Stylelint](https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-![My GH Stats](https://github-readme-stats.vercel.app/api?username=rjdmacedo&theme=cobalt&show_icons=true&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjdmacedo&theme=cobalt&hide=css,html&count_private=true&layout=compact)](https://github.com/rubenmateus/github-readme-stats)
-
 <!--
 **rjdmacedo/rjdmacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
