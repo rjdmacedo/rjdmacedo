@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Rafael and I'm a Software Enginner
+### Hi there 👋 my name is Rafael and I'm a Software Engineer
 
 ### 🔭 I work with
 
