@@ -33,6 +33,7 @@ https://rjdmacedo.github.io/curriculum-vitae
 ![Sinon JS](https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon)
 ![Testing Library](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
 
+![shadcn/UI](https://camo.githubusercontent.com/714ffe10dc755843d000d70954f925fa785ae0795870584235b4577624f802c6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73686164636e2f75692d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d73686164636e2f7569266c6f676f436f6c6f723d7768697465)
 ![TailWindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
